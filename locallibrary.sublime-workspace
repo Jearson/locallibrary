@@ -1,0 +1,1199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Err",
+				"Errorf\tfunc(format string, args ...interface{}) ·ƒ"
+			],
+			[
+				"Print",
+				"Printf\tfunc(format string, a ...interface{}) int, error ·ƒ"
+			],
+			[
+				"NewR",
+				"NewRobustSolitonWithSeed\tfunc(c float64, delta float64, k uint32, seed uint32) *RobustSoliton ·ƒ"
+			],
+			[
+				"Ro",
+				"NewRobustSoliton\tfunc(c float64, delta float64, k uint32) *RobustSoliton ·ƒ"
+			],
+			[
+				"expected",
+				"expected_src_blocks\t[]string ·ν"
+			],
+			[
+				"exp",
+				"expected_src_blocks\t[]string ·ν"
+			],
+			[
+				"expe",
+				"expected_src_blocks\tinvalid type ·ν"
+			],
+			[
+				"fata",
+				"Fatalf\tfunc(format string, args ...interface{}) ·ƒ"
+			],
+			[
+				"Fata",
+				"Fatalf\tfunc(format string, args ...interface{}) ·ƒ"
+			],
+			[
+				"test",
+				"testlines\t[]string ·ν"
+			],
+			[
+				"Fail",
+				"FailNow\tfunc() ·ƒ"
+			],
+			[
+				"Fai",
+				"FailNow\tfunc() ·ƒ"
+			],
+			[
+				"New",
+				"NewRobustSolitonWithSeed\tfunc(c float64, delta float64, k uint32, seed uint32) *RobustSoliton ·ƒ"
+			],
+			[
+				"pri",
+				"Printf\tfunc(format string, a ...interface{}) int, error ·ƒ"
+			],
+			[
+				"sqr",
+				"Sqrt\tfunc(x float64) float64 ·ƒ"
+			],
+			[
+				"Prin",
+				"Printf\tfunc(format string, a ...interface{}) int, error ·ƒ"
+			],
+			[
+				"Sp",
+				"Sprintf\tfunc(format string, a ...interface{}) string ·ƒ"
+			],
+			[
+				"Pr",
+				"Printf\tfunc(format string, a ...interface{}) int, error ·ƒ"
+			],
+			[
+				"str",
+				"strbuf\tstring ·ν"
+			],
+			[
+				"P",
+				"Println\tfunc(a ...interface{}) int, error ·ƒ"
+			],
+			[
+				"pack",
+				"package main\tmain{} ·ʂ"
+			],
+			[
+				"combined",
+				"combined_res"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"search",
+				"searchpg_url"
+			],
+			[
+				"searc",
+				"searchpg_url"
+			],
+			[
+				"URL",
+				"URL_TEMPLATE"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"prev_",
+				"prev_loop_num"
+			],
+			[
+				"incd",
+				"invalid_cmd"
+			],
+			[
+				"welc",
+				"welcomed_recvd"
+			],
+			[
+				"wel",
+				"welcomed_recvd"
+			],
+			[
+				"net",
+				"net_udp_port"
+			],
+			[
+				"cmd",
+				"cmd_type_t"
+			],
+			[
+				"sno",
+				"snowcast_listener"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"fail",
+				"fatal_fprintf"
+			],
+			[
+				"snow",
+				"snowcast_listener"
+			],
+			[
+				"erro",
+				"error_fprintf"
+			],
+			[
+				"ds",
+				"dst_mac"
+			],
+			[
+				"swith",
+				"switches"
+			],
+			[
+				"ARP_RE",
+				"ARP_REPLY"
+			],
+			[
+				"ARP_",
+				"ARP_REPLY"
+			],
+			[
+				"to",
+				"toCalc"
+			],
+			[
+				"tcpConn",
+				"tcpConnCopy"
+			],
+			[
+				"CLO",
+				"CLOSED"
+			],
+			[
+				"FIN_WA",
+				"FIN_WAIT_1"
+			],
+			[
+				"Pritn",
+				"Printf"
+			],
+			[
+				"ECHOR",
+				"ECHOREPLY"
+			],
+			[
+				"ECHO",
+				"ECHOREPLY"
+			],
+			[
+				"Tra",
+				"TracerouteChan"
+			],
+			[
+				"TRace",
+				"TracerouteInProgress"
+			],
+			[
+				"Error",
+				"Errorf"
+			],
+			[
+				"Handle",
+				"HandleDestinationUnreachable"
+			],
+			[
+				"RIPB",
+				"RIPRequestBroadcast"
+			],
+			[
+				"neigh",
+				"neighborCost"
+			],
+			[
+				"ripEn",
+				"RIPEntry"
+			],
+			[
+				"poisonedR",
+				"poisonedRIPPacket"
+			],
+			[
+				"Poi",
+				"poisonedRIPPackets"
+			],
+			[
+				"neighbor",
+				"neighborAddr"
+			],
+			[
+				"neighbo",
+				"neighborAddr"
+			],
+			[
+				"RIPSE",
+				"RIPSendHeartbeat"
+			],
+			[
+				"main",
+				"mainChan"
+			],
+			[
+				"fwdTable",
+				"FwdTable"
+			],
+			[
+				"header",
+				"headerBytes"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"song_in",
+				"song_info_t"
+			],
+			[
+				"song_",
+				"song_info_t"
+			],
+			[
+				"song",
+				"song_info_t"
+			],
+			[
+				"get",
+				"getWeatherFromLocation"
+			],
+			[
+				"PID",
+				"PID_IDLE"
+			],
+			[
+				"list_",
+				"list_empty"
+			],
+			[
+				"idle",
+				"idleproc"
+			],
+			[
+				"ID",
+				"PID_IDLE"
+			],
+			[
+				"p_chil",
+				"p_children"
+			],
+			[
+				"kt",
+				"kt_wchan"
+			],
+			[
+				"intr_",
+				"intr_setipl"
+			],
+			[
+				"new",
+				"new_kthr"
+			],
+			[
+				"sched_queue",
+				"sched_queue_empty"
+			],
+			[
+				"ktqueue",
+				"ktqueue_dequeue"
+			],
+			[
+				"IPL",
+				"IPL_HIGH"
+			],
+			[
+				"set",
+				"intr_setipl"
+			],
+			[
+				"ktqueue_",
+				"ktqueue_t"
+			],
+			[
+				"ps",
+				"p_state"
+			],
+			[
+				"KT_CAN",
+				"KT_SLEEP_CANCELLABLE"
+			],
+			[
+				"ktqueu",
+				"ktqueue_enqueue"
+			],
+			[
+				"list_iter",
+				"list_iterate_end"
+			],
+			[
+				"KT_CA",
+				"KT_SLEEP_CANCELLABLE"
+			],
+			[
+				"KT_",
+				"KT_SLEEP"
+			],
+			[
+				"KT_SLE",
+				"KT_SLEEP_CANCELLABLE"
+			],
+			[
+				"kt_",
+				"kt_qlink"
+			],
+			[
+				"kthrea",
+				"kthread_t"
+			],
+			[
+				"p_child",
+				"p_child_link"
+			],
+			[
+				"p_chi",
+				"p_children"
+			],
+			[
+				"slab_obj",
+				"slab_obj_alloc"
+			],
+			[
+				"PROC",
+				"PROC_NAME_LEN"
+			],
+			[
+				"next",
+				"next_pid"
+			],
+			[
+				"slab_ob",
+				"slab_obj_alloc"
+			],
+			[
+				"Connec",
+				"CONNECT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "locallibrary.sublime-project",
+			"settings":
+			{
+				"buffer_size": 305,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "locallibrary/settings.py",
+			"settings":
+			{
+				"buffer_size": 3128,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Anaconda: Show error list"
+			],
+			[
+				"Hexvie",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"indne",
+				"Indent XML"
+			],
+			[
+				"Inde",
+				"Indent XML"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package controll Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pacga",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"import this",
+			"print(\"wow\")",
+			"print(wow)",
+			"print \"wow\"",
+			"print wow",
+			"wow",
+			"help()",
+			"sublime.version()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/eson/Start/personal/projects/learn/django/locallibrary",
+		"/Users/eson/Start/personal/projects/learn/django/locallibrary/locallibrary"
+	],
+	"file_history":
+	[
+		"/Users/eson/Start/personal/projects/learn/django/locallibrary/manage.py",
+		"/Users/eson/Start/personal/projects/learn/django/locallibrary/locallibrary.sublime-project",
+		"/Users/eson/www/mysite/mysite/settings.py",
+		"/Users/eson/ltcodes/prng/prng.go",
+		"/Users/eson/ltcodes/prng/prng_test.go",
+		"/Applications/Standard Notes.app/Contents/MacOS/symtab",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/go/cyberfasttrack/l12c8/portscan.go",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/l12c8/poke.py",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/l12c7/poke.py",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/l8c12/pyres.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/l8c12/new_words.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/l8c12/boop.sh",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/l8c12/boop.py",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/l12c3/notes.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/l12c3/code.py",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/l8c12/res2.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/hq/l8c12/boop.python",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l8c5/Malicious Tools.7z",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l8c5/mftparser",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l8c5/flag.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l8c5/notes.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l8c4/notes.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l8c5/37 7a bc af 27 1c 00 04 74 13 71 6c 50 00 00 00 0",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l8c1/file.None.0xfffffa800bf881f0.dat.export/Top of Outlook data file/Contacts/Contact00001/Contact.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l8c3/e1xydGYxXGFkZWZsYW5nMTAyNVxhbnNpXGFuc2ljcGcxMjUyXH",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l8c2/mailbox.pst.export/Top of Outlook data file/Deleted Items/Message00001/Attachments/1_final.zip",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l7c4/notes.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l7c1/NTML_matches.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l7c1/:::_matches.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l7c4/HKEY_CURRENT_USER.reg.xml",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l7c1/dot_administrator_matches.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l5c2/Hives/SAM.xml",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l5c2/Hives/SYSTEM.xml",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l5c2/notes.txt",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l4c1/evtx/xml/vol1-C..Windows.System32.winevt.Logs.Application.evtx.xml",
+		"/Users/eson/ubuntu/cyberfasttrack/forensics/l4c1/evtx/xml/vol1-C..Windows.System32.winevt.Logs.System.evtx.xml",
+		"/Users/eson/code/is/wasm/examinefox/mozilla-central/js/src/jit/ProcessExecutableMemory.h",
+		"/Users/eson/code/is/wasm/examinefox/mozilla-central/js/src/jit/ProcessExecutableMemory.cpp",
+		"/Users/eson/stdnts.html",
+		"/Users/eson/ctf/cyberfasttrack/game/linux_env/l12c3/code.py",
+		"/Users/eson/ctf/cyberfasttrack/game/linux_env/l12c3/res.txt",
+		"/Users/eson/ctf/cyberfasttrack/game/linux_env/go/cyberfasttrack/l12c1/l12c1_solve.go",
+		"/Users/eson/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/src/margo/margo.go",
+		"/Users/eson/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/eson/ctf/cyberfasttrack/game/linux_env/l12c1/solve.py",
+		"/Users/eson/ctf/cyberfasttrack/game/linux_env/l9c10/mystery_from_6.txt",
+		"/Users/eson/ctf/cyberfasttrack/game/linux_env/l9c9/wshell.php",
+		"/Users/eson/ctf/cyberfasttrack/assess/linux_env/l7c1/zipcrack2.py",
+		"/Users/eson/ctf/cyberfasttrack/assess/linux_env/l7c7/revstr.py",
+		"/Users/eson/ctf/cyberfasttrack/assess/linux_env/l6c10/combine.py",
+		"/Users/eson/Desktop/class18/cs166ta/2.2observations",
+		"/Users/eson/Desktop/class18/cs166ta/2.1observations",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/queries_amazon.txt",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/Makefile",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/queries_unsplash.txt",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/code/amazon/download_images.py",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/README.md",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/resize_and_gather_imgs.py",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/resize_and_zip_imgs.py",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/Makefile",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/amazon/imgs/Wifi Router/amazon_wifi router_1-22.png",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/test.png",
+		"/Users/eson/testing_ground/fasttrack/pass_challenge/Vagrantfile",
+		"/Users/eson/testing_ground/fasttrack/pass_challenge/pass.dmp",
+		"/Users/eson/testing_ground/fasttrack/pass_challenge/pass.notes",
+		"/Users/eson/testing_ground/fasttrack/loop.dmp",
+		"/Users/eson/testing_ground/fasttrack/pass.dmp",
+		"/Users/eson/testing_ground/fasttrack/pass.notes",
+		"/Users/eson/testing_ground/fasttrack/loop",
+		"/Users/eson/testing_ground/fasttrack/loop.gobjdump",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/amazon/html/0.html",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/amazon/html/function attempt() {",
+		"/Users/eson/testing_ground/fasttrack/get.sh",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/amazon/html/Gjj zcu zu luax, zosky zngz tashkx he komnz, znkt",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/amazon/prodpg.html",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/amazon/curio.txt",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/unsplash/queries.txt",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/unsplash/download_images.py",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/unsplash/get_all_class_data.sh",
+		"/Users/eson/code/is/wasm/examinefox/mozilla-central/obj-x86_64-apple-darwin18.2.0/_virtualenvs/init/lib/python2.7/site-packages/pip/__init__.py",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/test.py",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/google_mac_laptop_search.html",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/photos?query=macbook&xp=&per_page=20&page=2",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/unsplash_json_res.json",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/unsplash2_js.js",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/unsplash2.html",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/unsplash1.js",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/unsplash_macbook.html",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/apple-ipad.html",
+		"/Users/eson/compvis/final_project/CS1430-Final-Project/scraper/photo-1518043647833-3c0c5da3360f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9",
+		"/Users/eson/code/is/wasm/examinefox/mozilla-central/js/src/jit/Jit.cpp",
+		"/Users/eson/code/is/wasm/examinefox/nightly_notes/nightly_vmmap_before.txt",
+		"/Users/eson/code/is/wasm/examinefox/nightly_notes/nightly_vmmap_after.txt",
+		"/Users/eson/code/is/wasm/examinefox/nightly_notes/nightly_vmmap.txt",
+		"/Users/eson/code/is/wasm/examinefox/mozilla-central/browser/config/mozconfig",
+		"/Users/eson/code/is/wasm/emsdk/upstream/lkgr.json",
+		"/Users/eson/code/is/wasm/useful_cmds",
+		"/Users/eson/code/is/wasm/c/hello.c",
+		"/Users/eson/code/is/wasm/web/hello.wat",
+		"/Users/eson/code/is/wasm/TODO",
+		"/Users/eson/code/is/wasm/emsdk/emscripten/1.38.28/system/include/libcxx/__locale",
+		"/Users/eson/code/is/wasm/web/hello.wasm.dump",
+		"/Users/eson/code/is/wasm/web/annotated_hello.js",
+		"/Users/eson/code/snowcast-redux/include/list.h",
+		"/Users/eson/code/snowcast-redux/server/snowcast_server.c",
+		"/Users/eson/code/snowcast-redux/client/control/snowcast_control.c",
+		"/Users/eson/code/snowcast-redux/include/snowcast_server.h",
+		"/Users/eson/code/snowcast-redux/server/snowcast_server_protoc.c",
+		"/Users/eson/code/snowcast-redux/common/snowcast_msgs.c",
+		"/Users/eson/code/snowcast-redux/include/snowcast_msgs.h",
+		"/Users/eson/code/snowcast-redux/include/snowcast_server_protoc.h",
+		"/Users/eson/code/snowcast-redux/client/control/snowcast_control_protoc.c",
+		"/Users/eson/code/snowcast-redux/include/snowcast_control_protoc.h",
+		"/Users/eson/code/snowcast-redux/include/snowcast_control.h",
+		"/Users/eson/code/snowcast-redux/common/network.c",
+		"/Users/eson/code/snowcast-redux/server/client.c",
+		"/Users/eson/code/snowcast-redux/include/network.h",
+		"/Users/eson/code/snowcast-redux/include/station.h",
+		"/Users/eson/code/snowcast-redux/include/client.h",
+		"/Users/eson/code/snowcast-redux/client/listener/snowcast_listener.c",
+		"/Users/eson/code/snowcast-redux/Vagrantfile",
+		"/Users/eson/code/snowcast-redux/server/untitled",
+		"/Users/eson/code/snowcast-redux/server/station.c",
+		"/Users/eson/code/snowcast-redux/include/debug.h",
+		"/Users/eson/code/snowcast-redux/client/control/client_protoc.c",
+		"/Users/eson/code/snowcast-redux/Makefile",
+		"/Users/eson/code/snowcast-redux/common/list.c",
+		"/Users/eson/code/snowcast-redux/client/snowcast_control.c"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "locallibrary.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "locallibrary/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2531,
+								2531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 795.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://9o":
+	{
+		"height": 96.0
+	},
+	"output.GoSublime/HUD":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "locallibrary.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ProcessExecutbleMemory",
+				"mozilla-central/js/src/jit/ProcessExecutableMemory.h"
+			],
+			[
+				"ProcessExecutableMemory",
+				"mozilla-central/js/src/jit/ProcessExecutableMemory.cpp"
+			],
+			[
+				"ProcessEx",
+				"examinefox/mozilla-central/js/src/jit/ProcessExecutableMemory.h"
+			],
+			[
+				"ProcessE",
+				"examinefox/mozilla-central/js/src/jit/ProcessExecutableMemory.cpp"
+			],
+			[
+				"mozcon",
+				"examinefox/mozilla-central/browser/config/mozconfig"
+			],
+			[
+				"proc",
+				"kernel/include/proc/proc.h"
+			],
+			[
+				"proc.h",
+				"kernel/include/proc/proc.h"
+			],
+			[
+				"erro",
+				"kernel/include/errno.h"
+			],
+			[
+				"kthread",
+				"kernel/include/proc/kthread.h"
+			],
+			[
+				"pr",
+				"kernel/proc/proc.c"
+			],
+			[
+				"sched",
+				"kernel/proc/sched_helper.c"
+			],
+			[
+				"threa",
+				"kernel/include/proc/kthread.h"
+			],
+			[
+				"sched.",
+				"kernel/include/proc/sched.h"
+			],
+			[
+				"list.h",
+				"kernel/include/util/list.h"
+			],
+			[
+				"kmain",
+				"kernel/main/kmain.c"
+			],
+			[
+				"sched.c",
+				"kernel/proc/sched.c"
+			],
+			[
+				"interr",
+				"kernel/include/main/interrupt.h"
+			],
+			[
+				"contex",
+				"kernel/proc/context.c"
+			],
+			[
+				"list",
+				"kernel/include/util/list.h"
+			],
+			[
+				"slab.",
+				"kernel/include/mm/slab.h"
+			],
+			[
+				"slab",
+				"kernel/mm/slab.c"
+			],
+			[
+				"shced",
+				"kernel/include/proc/sched.h"
+			],
+			[
+				"string",
+				"kernel/util/string.c"
+			],
+			[
+				"slab.h",
+				"kernel/include/mm/slab.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 120.0,
+		"last_filter": "handle_s",
+		"selected_items":
+		[
+			[
+				"handle_s",
+				"handle_switch_add"
+			],
+			[
+				"add",
+				"add_host"
+			],
+			[
+				"initpr",
+				"initproc_run"
+			],
+			[
+				"proc_kil",
+				"proc_kill"
+			],
+			[
+				"kthread_ca",
+				"kthread_cancel"
+			],
+			[
+				"proc_thread",
+				"proc_thread_exited"
+			],
+			[
+				"kthread_",
+				"kthread_exit"
+			],
+			[
+				"sched",
+				"sched_broadcast_on"
+			],
+			[
+				"initproc",
+				"initproc_run"
+			],
+			[
+				"proc_clean",
+				"proc_cleanup"
+			],
+			[
+				"bootstra",
+				"bootstrap"
+			],
+			[
+				"proc_crea",
+				"proc_create"
+			],
+			[
+				"kthread_cre",
+				"kthread_create"
+			],
+			[
+				"proc_clea",
+				"proc_cleanup"
+			],
+			[
+				"do_waitp",
+				"do_waitpid"
+			],
+			[
+				"pageout",
+				"pageoutd_run"
+			],
+			[
+				"IDLE",
+				"PID_IDLE"
+			],
+			[
+				"sched_",
+				"sched_broadcast_on"
+			],
+			[
+				"bro",
+				"sched_broadcast_on"
+			],
+			[
+				"do_wai",
+				"do_waitpid"
+			],
+			[
+				"broad",
+				"sched_broadcast_on"
+			],
+			[
+				"do_wait",
+				"do_waitpid"
+			],
+			[
+				"schedca",
+				"sched_cancellable_sleep_on"
+			],
+			[
+				"sleep",
+				"sched_sleep_on"
+			],
+			[
+				"print",
+				"dbg_printinfo"
+			],
+			[
+				"queu",
+				"sched_queue_init"
+			],
+			[
+				"initpro",
+				"initproc_run"
+			],
+			[
+				"kthread_exit",
+				"kthread_exit"
+			],
+			[
+				"do_exit",
+				"do_exit"
+			],
+			[
+				"do_ex",
+				"do_exit"
+			],
+			[
+				"kthread_ex",
+				"kthread_exit"
+			],
+			[
+				"proc_thra",
+				"proc_thread_exited"
+			],
+			[
+				"siwth",
+				"sched_switch"
+			],
+			[
+				"contex",
+				"context_switch"
+			],
+			[
+				"sched_can",
+				"sched_cancellable_sleep_on"
+			],
+			[
+				"list_head",
+				"list_head"
+			],
+			[
+				"proc_",
+				"proc_info"
+			],
+			[
+				"init",
+				"initproc_create"
+			],
+			[
+				"sched_swi",
+				"sched_switch"
+			],
+			[
+				"NEXT",
+				"NEXT_MMAP"
+			],
+			[
+				"context",
+				"context_switch"
+			],
+			[
+				"intr_w",
+				"intr_wait"
+			],
+			[
+				"IPL_",
+				"IPL_HIGH"
+			],
+			[
+				"intr_wai",
+				"intr_wait"
+			],
+			[
+				"proc_thre",
+				"proc_thread_exited"
+			],
+			[
+				"proc_cle",
+				"proc_cleanup"
+			],
+			[
+				"broa",
+				"sched_broadcast_on"
+			],
+			[
+				"do_",
+				"do_exit"
+			],
+			[
+				"list_",
+				"list_item"
+			],
+			[
+				"do_exi",
+				"do_exit"
+			],
+			[
+				"do_wa",
+				"do_waitpid"
+			],
+			[
+				"list_inse",
+				"list_insert_tail"
+			],
+			[
+				"list_re",
+				"list_remove"
+			],
+			[
+				"list_inser",
+				"list_insert_tail"
+			],
+			[
+				"sched_slee",
+				"sched_cancellable_sleep_on"
+			],
+			[
+				"kth",
+				"kthread_exit"
+			],
+			[
+				"kthread_exi",
+				"kthread_exit"
+			],
+			[
+				"kthread_can",
+				"kthread_cancel"
+			],
+			[
+				"_exit",
+				"do_exit"
+			],
+			[
+				"idleproc",
+				"idleproc_run"
+			],
+			[
+				"initproc_run",
+				"initproc_run"
+			],
+			[
+				"kthread_creat",
+				"kthread_create"
+			],
+			[
+				"sched_make",
+				"sched_make_runnable"
+			],
+			[
+				"context_se",
+				"context_setup"
+			],
+			[
+				"context_make",
+				"context_make_active"
+			],
+			[
+				"offset",
+				"offsetof"
+			],
+			[
+				"proc_create",
+				"proc_create"
+			],
+			[
+				"proc_init",
+				"proc_init"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
